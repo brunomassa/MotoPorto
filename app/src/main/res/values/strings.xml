@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MotoPorto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quemsomos">Quem somos</string>
+    <string name="contactos">Contactos</string>
+    <string name="sogestoes">Sugestões:</string>
+    <string name="enviar">Enviar</string>
+    <string name="aluger">Alugar</string>
+    <string name="sugestao">Sugestões</string>
+    <string name="entrar">Entrar</string>
+    <string name="registar">Registar</string>
+    <string name="Nome">Nome</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmarPassword">Confirmar-Password</string>
+    <string name="Morada">Morada</string>
+    <string name="Email">E-mail</string>
+    <string name="Telemóvel">Telemóvel</string>
+    <string name="Contribuinte">Contribuinte</string>
+    <string name="Registar">Registar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="local">Localização</string>
+
+    <string-array name="Mota">
+        <item>É titular de carta de condução de mota</item>
+        <item>Sim</item>
+        <item>Nao</item>
+    </string-array>
+
+    <string-array name="Carro">
+        <item>É titular de carta de condução de Carro</item>
+        <item>Sim</item>
+        <item>Nao</item>
+    </string-array>
+    <string name="title_activity_alugarmoto">alugarmoto</string>
+    <string-array name="motas">
+        <item>Todas as Motas</item>
+        <item>Yamaha Aerox R Naked</item>
+        <item>Yamaha Aerox R</item>
+        <item>BW´S Easy</item>
+        <item>BW´S Original</item>
+        <item>Neo´s Easy</item>
+        <item>NEO´S 4</item>
+        <item>Jog50R</item>
+        <item>Slider Naked 2014</item>
+    </string-array>
+</resources>
